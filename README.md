@@ -13,7 +13,7 @@ My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/usamaabidai/Data-Analysis-Portfolio/blob/main/README.md)
+- [About](https://github.com/usamaabidai/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [MovieLens Data Analysis](https://github.com/usamaabidai/MovieLens-Data-Analysis)
@@ -32,7 +32,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The project analyzed the MovieLens dataset, which contains information about movies, user demographics, and movie ratings. The dataset included three primary files: movie.csv (movie titles and genres), user.csv (demographic details of users), and ratings.csv (user ratings for specific movies). The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing genre preferences, identifying top-rated movies, and studying user rating behavior across different demographics.  
 
-**Skills:** data cleaning, data analysis, pattern recognition, hypothesis testing, data visualization.  
+**Skills:** data cleaning, data analysis,data visualization.  
 
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 
@@ -45,7 +45,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The project examined transaction data from Chef's Kitchen, focusing on bill amounts, tipping behavior, and customer demographics. The dataset included features such as order ID, day of the week, time of day, party size, smoking status, gender of the bill payer, total bill amount, and tip amount. The analysis involved data cleaning, exploratory data analysis (EDA), statistical analysis, and pattern recognition to uncover insights into tipping behavior across different factors like time, day, and demographics.  
 
-**Skills:** data cleaning, data analysis, statistical analysis, pattern recognition, data visualization.  
+**Skills:** data cleaning, data analysis, pattern recognition, data visualization.  
 
 **Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib.  
 
@@ -58,7 +58,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** The project examines honey production data across the United States over a period marked by significant challenges, including Colony Collapse Disorder. The dataset includes information on honey-producing states, colony numbers, production yields, total production, price per pound, and production value. The analysis involved time series analysis, statistical correlation, and geospatial visualization to uncover key trends and market adaptations.  
 
-**Skills:** time series analysis, geospatial data visualization, statistical correlation, trend decomposition, comparative state analysis.  
+**Skills:** time series analysis, explorartory data analysis, trend decomposition, comparative state analysis.  
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn.  
 
@@ -71,7 +71,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** This project involves a detailed analysis of property sales data in Melbourne, covering attributes such as property type, location, price, number of rooms, and distance from the Central Business District (CBD). The dataset includes key information such as suburb, postcode, number of bedrooms, bathrooms, car spaces, land size, building area, and year built. The analysis focuses on identifying pricing trends, detecting outliers, understanding regional disparities, and recognizing factors influencing property prices.  
 
-**Skills:** data cleaning, data analysis, statistical analysis, trend analysis, outlier detection, data visualization.  
+**Skills:** data cleaning, data analysis, trend analysis, outlier detection, data visualization.  
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn.  
 
@@ -85,7 +85,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** This project explores over 4,000 mobile applications across various categories, focusing on key attributes such as ratings, reviews, installs, and ad support. The objective is to determine which app categories are trending and where advertising investment would yield the highest returns. The analysis includes category distribution, ad-supported app trends, content rating distribution, correlation between reviews and installs, and performance evaluation of key app categories.  
 
-**Skills:** data cleaning, data analysis, statistical correlation, trend analysis, visualization, advertising strategy optimization.  
+**Skills:** data cleaning, data analysis, visualization, advertising strategy optimization.  
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn.  
 
@@ -98,7 +98,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** This project examines Uber ride data across NYC boroughs, recorded hourly with weather conditions. The objective is to uncover demand patterns based on time, location, and external factors such as weather and holidays. The analysis explores trends in Uber pickups, peak demand periods, the impact of weather variables, and regional variations in ride distribution. The insights help Uber improve fleet management, optimize pricing strategies, and expand operations in high-growth areas.  
 
-**Skills:** data cleaning, time series analysis, statistical correlation, trend analysis, predictive modeling, data visualization.  
+**Skills:** data cleaning, time series analysis, trend analysis, data visualization.  
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Time Series Analysis.  
 
