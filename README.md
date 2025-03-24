@@ -2,25 +2,16 @@
 ## About
 Hi, I’m Usama! I’m a freelance data analyst and a Super Tutor on Preply, where I teach Python and data analysis tools to students worldwide. I have a strong passion for working with data, solving problems, and helping others develop the skills needed to succeed in data analytics.
 
-Currently, I am pursuing an RQF Level 6 Diploma in Artificial Intelligence Operations from Alnafi (EduQual). This program is helping me expand my knowledge in AI, automation, and advanced data analysis techniques.
+Currently, I am pursuing an RQF Level 6 Diploma in Artificial Intelligence Operations from Alnafi (EduQual). This program is helping me expand my knowledge in AI, automation, devops and advanced data analysis techniques.
 
 With experience in Python, SQL, Power BI, and Excel, I enjoy working on real-world data projects and turning raw data into meaningful insights. My teaching approach is practical and hands-on, focusing on making complex topics easier to understand.
 
 When I’m not analyzing data or teaching, I like exploring new technologies, improving my coding skills, and working on personal projects.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf]().
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Table of Contents
-- [About](https://github.com/usamaabidai/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
-  - Python
-    - [MovieLens Data Analysis](https://github.com/usamaabidai/MovieLens-Data-Analysis)
-    - [Chef's Kitchen Tip Analysis](https://github.com/usamaabidai/Chef-s-Kitchen-Tip-Analysis)
-    - [US Honey Production Analysis](https://github.com/usamaabidai/US-Honey-Production-Analysis-1998-2016-)
-    - [Melbourne Housing Market Analysis](https://github.com/usamaabidai/Melbourne-Housing-Market-Analysis)
-    - [Zoom Ads - Google Play Store Data Analysis](https://github.com/usamaabidai/Zoom-Ads---Google-Play-Store-Data-Analysis)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -103,3 +94,25 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Time Series Analysis.  
 
 **Results:** The analysis confirmed that Manhattan is the busiest borough for Uber pickups, with demand peaking during office commute hours and late evenings. Weather conditions have minimal impact on ride demand. The study highlights key periods of high demand, such as weekday mornings (6 AM - 10 AM) and Saturday nights, making them ideal for fleet optimization. Business recommendations include expanding operations in other boroughs, improving fleet distribution using predictive analytics, and implementing dynamic pricing strategies to enhance profitability.
+
+
+### Nashville Housing Data Cleaning
+**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/usamaabidai/Nashville-Housing-Data-Cleaning-in-SQL)
+
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
+
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
+
+**Technology:** SQL Server
+
+
+### Covid 19 Data Exploration
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/usamaabidai/Covid-19-Data-Exploration/blob/main/COVID%20Data%20Portfolio%20Project.sql)
+
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
+
+
