@@ -8,7 +8,7 @@ With experience in Python, SQL, Power BI, and Excel, I enjoy working on real-wor
 
 When I’m not analyzing data or teaching, I like exploring new technologies, improving my coding skills, and working on personal projects.
 
-My CV in [pdf]().
+My CV in [pdf](https://github.com/usamaabidai/Data-Analysis-Portfolio/blob/main/usama's-resume.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
