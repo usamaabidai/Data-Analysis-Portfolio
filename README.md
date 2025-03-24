@@ -14,3 +14,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/usamaabidai/Data-Analysis-Portfolio/blob/main/README.md)
+- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Python
+    - [MovieLens Data Analysis](https://github.com/usamaabidai/MovieLens-Data-Analysis)
+    - [Chef's Kitchen Tip Analysis](https://github.com/usamaabidai/Chef-s-Kitchen-Tip-Analysis)
+    - [US Honey Production Analysis](https://github.com/usamaabidai/US-Honey-Production-Analysis-1998-2016-)
+    - [Melbourne Housing Market Analysis](https://github.com/usamaabidai/Melbourne-Housing-Market-Analysis)
+    - [Zoom Ads - Google Play Store Data Analysis](https://github.com/usamaabidai/Zoom-Ads---Google-Play-Store-Data-Analysis)  
